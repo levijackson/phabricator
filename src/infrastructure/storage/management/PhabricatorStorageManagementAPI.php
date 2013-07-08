@@ -3,6 +3,7 @@
 final class PhabricatorStorageManagementAPI {
 
   private $host;
+  private $port;
   private $user;
   private $password;
   private $namespace;
